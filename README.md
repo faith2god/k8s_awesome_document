@@ -39,6 +39,10 @@
 - [Kubernetes 开源知识---华为](https://github.com/0voice/k8s_awesome_document/blob/main/%E6%96%87%E6%A1%A3/Kubernetes%20%E5%BC%80%E6%BA%90%E7%9F%A5%E8%AF%86.pdf)
 - [深入浅出Kubernetes实战手册(阿里云)](https://github.com/0voice/k8s_awesome_document/blob/main/%E6%96%87%E6%A1%A3/%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BAKubernetes%E5%AE%9E%E6%88%98%E6%89%8B%E5%86%8C(%E9%98%BF%E9%87%8C%E4%BA%91)%20.pdf)
 
+## 待验证质量的资料
+
+- [云原生系列知识](https://www.zhaowenyu.com/)
+
 ## 🌰干货铺（欢迎大家lssues）
 
 - CNCF官方网站：https://www.cncf.io
